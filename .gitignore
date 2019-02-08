@@ -1,0 +1,5 @@
+*.log
+config.py
+*.db
+env
+env2
